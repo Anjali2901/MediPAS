@@ -1,0 +1,6 @@
+https://api.fda.gov/drug/event.json?api_key=4vd0R1524xQ5exO7m2oWdAd2iZzm2U4L1JmvA38i&search=Paracetamol
+
+
+
+
+jA2TXQcBTbsC0ZjCQAprqG7gQdwRwYgaPFSW9ZSd
